@@ -20,5 +20,5 @@ step 3: Create the data Connection in qliksense (Same as QVF file) in Data Load 
 Step 4: To bring Christmas theme . Import attached vzlib extension from extension folder in qliksense
 step 5: Load the data
 
-
-![name-of-you-image](https://github.com/IrfanAnalytics/Linkedin_profile_analysis_qlik/blob/main/Images/LinkedIn%20Profile%20Analysis_final.gif)
+Dashboard Snapshot:
+![Dashboard](https://github.com/IrfanAnalytics/Linkedin_profile_analysis_qlik/blob/main/Images/LinkedIn%20Profile%20Analysis_final.gif)
